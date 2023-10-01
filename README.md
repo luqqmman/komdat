@@ -15,7 +15,6 @@ Ringan dan cepat dengan desain yang apik, Kavita adalah perpustakaan digital yan
 
 ### Proses Instalasi
 1. Siapkan VPS dengan akses root
-![](https://github.com/luqqmman/komdat/blob/main/dokumentasi/root.png)
 2. Pastikan docker dan docker-compose terinstal
 ![](https://github.com/luqqmman/komdat/blob/main/dokumentasi/docker.png)
 3. Membuat folder baru bernama kavita (opsional)
